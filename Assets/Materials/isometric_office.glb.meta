@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: baeeaf145575a5b459dd2a54091655ff
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster_office_2
+    second: {fileID: 2100000, guid: 49e37fb2762b68e45a1e9bec9981b583, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-12.65.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+    "author": "Companion_Cube (https://sketchfab.com/Companion_Cube)"
+
+    "license":
+    "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+
+    "source": "https://sketchfab.com/3d-models/isometric-office-d31464eed8044190911b221648aca432"
+
+    "title":
+    "Isometric office"
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -8070009176602189081, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -3209283534772999789, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1022269594093609885, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8067726398312463513, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -5190341073462374227, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 8921832621244057410, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -7816113155869186787, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 9145025115286265726, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -3846018093981099296, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8311765980651148586, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1274482457906873565, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -9211829362628187117, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -4944567681888538825, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8077174868666859961, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2010740679675073612, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -5416141062850805037, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 5233825809293494839, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 1314773800942450902, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -4973734387028869240, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2055973457806187997, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 2565534315720911105, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -4022680319722204869, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -3650348822885733952, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -6453468031314372881, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1927118958543207408, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -5001905743731099096, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2215458413792841262, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 139183220589382858, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 1240970759740880578, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8379555444199714890, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 8556262120643298411, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 1041322143335897632, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 7557599673686449045, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 1098109257736430125, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 96120117324824405, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8110196849740742584, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -5508720413135110303, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8375765414521573622, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1540615543647114274, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -3431493258197375970, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 7335996882802156562, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -6106971683058982990, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -34229835875990945, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -389402008792246631, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 1200001592809414786, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2631218339269792134, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 4989112799292393545, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -3130863591654571195, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  textures:
+  - {fileID: 6983701643236107813, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 8022499087761476943, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 5230624929818990856, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2834534249764746836, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -409340629399409755, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -6477806308458343453, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 6960455510609624210, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 150502026991701941, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 2933329333178083999, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -22660439024615302, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -809988167731686972, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 5743815331122784290, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 7193558952320421103, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -2275718726046256121, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 3560622977116409970, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1462800502094218808, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -8506249199374065407, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: 5857770040681355603, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -410426166806237867, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -158951856904712258, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -1533294962236245339, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  - {fileID: -4693632161821296697, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions: []
+  _textures:
+  - texture: {fileID: 6983701643236107813, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 8022499087761476943, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 5230624929818990856, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -2834534249764746836, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -409340629399409755, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -6477806308458343453, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 6960455510609624210, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 150502026991701941, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2933329333178083999, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -22660439024615302, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -809988167731686972, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 5743815331122784290, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 7193558952320421103, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -2275718726046256121, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 3560622977116409970, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -1462800502094218808, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -8506249199374065407, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 5857770040681355603, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -410426166806237867, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -158951856904712258, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -1533294962236245339, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -4693632161821296697, guid: baeeaf145575a5b459dd2a54091655ff, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

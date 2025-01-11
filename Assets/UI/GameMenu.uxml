@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/StyleSheet.uss?fileID=7433441132597879392&amp;guid=e180b1acf4d5a564ab40b06414f73d4f&amp;type=3#StyleSheet" />
+    <ui:VisualElement class="MainMenuContainer" style="flex-grow: 1; align-items: center; justify-content: center; align-self: center; width: 70%; height: 100%; position: absolute; margin-top: auto; margin-bottom: auto; margin-right: auto; margin-left: auto;">
+        <ui:Button text="Retry" parse-escape-sequences="true" display-tooltip-when-elided="true" name="RetryButton" class="Button" style="width: 40%; height: 30px;" />
+        <ui:Button text="Level Selection" parse-escape-sequences="true" display-tooltip-when-elided="true" name="LevelSelectionButton" class="Button" style="width: 40%; height: 30px;" />
+        <ui:Button text="Main Menu" parse-escape-sequences="true" display-tooltip-when-elided="true" name="MainMenuButton" class="Button" style="width: 40%; height: 30px;" />
+        <ui:Button text="Settings" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SettingsButton" class="Button" style="width: 40%; height: 30px;" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="QuitButton" class="Button" style="width: 40%; height: 30px;" />
+    </ui:VisualElement>
+</ui:UXML>
