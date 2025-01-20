@@ -264,6 +264,6 @@ public class PatrolAi : MonoBehaviour
 
     private void EndGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("Died");
     }
 }
