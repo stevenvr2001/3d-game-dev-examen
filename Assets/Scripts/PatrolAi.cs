@@ -138,7 +138,8 @@ public class PatrolAi : MonoBehaviour
                 if (hit.collider.CompareTag(playerTag))
                 {
                     Debug.Log("Detected player with GROUND cone!");
-                    EndGame();
+                    Debug.Log($"Player detected by: {gameObject.name} (GROUND cone)");
+                    //EndGame();
                 }
             }
 
@@ -218,7 +219,8 @@ public class PatrolAi : MonoBehaviour
                 if (hit.collider.CompareTag(playerTag))
                 {
                     Debug.Log("Detected player with EYE cone!");
-                    EndGame();
+                    Debug.Log($"Player detected by: {gameObject.name} (EYE cone)");
+                    //EndGame();
                 }
             }
 

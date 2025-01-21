@@ -34,12 +34,12 @@ public class FriendlyPatrolAi : MonoBehaviour
             transform.position
         );
 
-        Debug.Log($"Current waypoint index: {currentWaypointIndex}, Distance to waypoint: {distanceToWaypoint}");
+        //Debug.Log($"Current waypoint index: {currentWaypointIndex}, Distance to waypoint: {distanceToWaypoint}");
 
         if (distanceToWaypoint <= 2f) // When close to the waypoint, move to the next one
         {
             currentWaypointIndex = (currentWaypointIndex + 1) % wayPoint.Count;
-            Debug.Log($"Waypoint reached, moving to next: {currentWaypointIndex}");
+            //Debug.Log($"Waypoint reached, moving to next: {currentWaypointIndex}");
         }
 
         navMeshAgent.SetDestination(wayPoint[currentWaypointIndex].position);
