@@ -139,7 +139,7 @@ public class PatrolAi : MonoBehaviour
                 {
                     Debug.Log("Detected player with GROUND cone!");
                     Debug.Log($"Player detected by: {gameObject.name} (GROUND cone)");
-                    //EndGame();
+                    EndGame();
                 }
             }
 
@@ -220,7 +220,7 @@ public class PatrolAi : MonoBehaviour
                 {
                     Debug.Log("Detected player with EYE cone!");
                     Debug.Log($"Player detected by: {gameObject.name} (EYE cone)");
-                    //EndGame();
+                    EndGame();
                 }
             }
 

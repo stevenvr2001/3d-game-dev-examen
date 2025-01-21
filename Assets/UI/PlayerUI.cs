@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
 public class PlayerUI : MonoBehaviour
 {
@@ -82,11 +83,7 @@ public class PlayerUI : MonoBehaviour
 
     private void Gameover()
     {
-        // vul de timer met tekst GAME OVER
-        Timer.text = "GAME OVER";
-        // zet de timer op rood
-        Timer.style.color = new StyleColor(Color.red);
-        // zet de timer op 00:00
+        SceneManager.LoadScene("Died");
     }
 
 }
